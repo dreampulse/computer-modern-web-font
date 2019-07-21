@@ -23,7 +23,7 @@ Insert the `https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fo
 
 ## Fonts
 
-The folowing font-familys are avaiable:
+The folowing font-familys are available:
 
 * `'Computer Modern Bright'`
 * `'Computer Modern Concrete'`
