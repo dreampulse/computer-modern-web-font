@@ -6,13 +6,13 @@ Take a look at this [example.html](https://cdn.rawgit.com/dreampulse/computer-mo
 
 ## Usage
 
-Insert the `https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css` css-stylesheet into your html header.
+Insert the `https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css` css-stylesheet into your html header.
 
 ```html
 <head>
   <!-- ... -->
 
-  <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css">
   <style>
     body {
       font-family: "Computer Modern Sans", sans-serif;
@@ -30,8 +30,3 @@ The folowing font-familys are available:
 * `'Computer Modern Sans'`
 * `'Computer Modern Serif'`
 * `'Computer Modern Typewriter'`
-
-## Performance
-
-You can use the font for production websites with any amount of traffic. Files are served via MaxCDN's super fast global CDN.
-There is no traffic limits or throttling.
